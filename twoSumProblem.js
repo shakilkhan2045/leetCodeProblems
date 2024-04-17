@@ -15,4 +15,4 @@ const array1 = [12, 10, 7, 9]; // Define the array of integers
         check(); // Call the check function
     }
 }
-//by_shakil_khan
+//by_shakil_khan_
